@@ -1,28 +1,19 @@
-CSS File:::::Style
+ body {
+     background-color: #EEEEEE;
+ }
+ #container {
+     background-color: white;
+     width: 800px;
+     margin-left: auto;
+     margin-right: auto;
+ }
 
-
-body{
-    
-    background-color: #EEEEEE;
-    font-family: Arial, Helvetica, sans-serif;
-    width: 960px;
-    font-size: 18px;
-    padding: 10px;
-    text-align: center;
-
-}
-
-#container {
-    background-color: White;
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-#header {
-    background-color: #66ccff;
+ }
+ #header {
+    background-color: #66CCFF;
     color: white;
     text-align: center;
+
 }
 #content{
     padding: 10px;
